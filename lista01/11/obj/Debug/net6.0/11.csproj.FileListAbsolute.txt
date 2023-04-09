@@ -1,0 +1,15 @@
+/home/luis/Documents/C#/exercicios/lista01/11/obj/Debug/net6.0/11.csproj.AssemblyReference.cache
+/home/luis/Documents/C#/exercicios/lista01/11/obj/Debug/net6.0/11.GeneratedMSBuildEditorConfig.editorconfig
+/home/luis/Documents/C#/exercicios/lista01/11/obj/Debug/net6.0/11.AssemblyInfoInputs.cache
+/home/luis/Documents/C#/exercicios/lista01/11/obj/Debug/net6.0/11.AssemblyInfo.cs
+/home/luis/Documents/C#/exercicios/lista01/11/obj/Debug/net6.0/11.csproj.CoreCompileInputs.cache
+/home/luis/Documents/C#/exercicios/lista01/11/bin/Debug/net6.0/11
+/home/luis/Documents/C#/exercicios/lista01/11/bin/Debug/net6.0/11.deps.json
+/home/luis/Documents/C#/exercicios/lista01/11/bin/Debug/net6.0/11.runtimeconfig.json
+/home/luis/Documents/C#/exercicios/lista01/11/bin/Debug/net6.0/11.dll
+/home/luis/Documents/C#/exercicios/lista01/11/bin/Debug/net6.0/ref/11.dll
+/home/luis/Documents/C#/exercicios/lista01/11/bin/Debug/net6.0/11.pdb
+/home/luis/Documents/C#/exercicios/lista01/11/obj/Debug/net6.0/11.dll
+/home/luis/Documents/C#/exercicios/lista01/11/obj/Debug/net6.0/ref/11.dll
+/home/luis/Documents/C#/exercicios/lista01/11/obj/Debug/net6.0/11.pdb
+/home/luis/Documents/C#/exercicios/lista01/11/obj/Debug/net6.0/11.genruntimeconfig.cache

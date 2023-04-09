@@ -1,0 +1,15 @@
+/home/luis/Documents/C#/exercicios/lista01/13/bin/Debug/net6.0/13
+/home/luis/Documents/C#/exercicios/lista01/13/bin/Debug/net6.0/13.deps.json
+/home/luis/Documents/C#/exercicios/lista01/13/bin/Debug/net6.0/13.runtimeconfig.json
+/home/luis/Documents/C#/exercicios/lista01/13/bin/Debug/net6.0/13.dll
+/home/luis/Documents/C#/exercicios/lista01/13/bin/Debug/net6.0/ref/13.dll
+/home/luis/Documents/C#/exercicios/lista01/13/bin/Debug/net6.0/13.pdb
+/home/luis/Documents/C#/exercicios/lista01/13/obj/Debug/net6.0/13.csproj.AssemblyReference.cache
+/home/luis/Documents/C#/exercicios/lista01/13/obj/Debug/net6.0/13.GeneratedMSBuildEditorConfig.editorconfig
+/home/luis/Documents/C#/exercicios/lista01/13/obj/Debug/net6.0/13.AssemblyInfoInputs.cache
+/home/luis/Documents/C#/exercicios/lista01/13/obj/Debug/net6.0/13.AssemblyInfo.cs
+/home/luis/Documents/C#/exercicios/lista01/13/obj/Debug/net6.0/13.csproj.CoreCompileInputs.cache
+/home/luis/Documents/C#/exercicios/lista01/13/obj/Debug/net6.0/13.dll
+/home/luis/Documents/C#/exercicios/lista01/13/obj/Debug/net6.0/ref/13.dll
+/home/luis/Documents/C#/exercicios/lista01/13/obj/Debug/net6.0/13.pdb
+/home/luis/Documents/C#/exercicios/lista01/13/obj/Debug/net6.0/13.genruntimeconfig.cache
