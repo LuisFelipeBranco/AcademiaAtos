@@ -14,6 +14,7 @@ namespace Vetor06
             int[] vetor = new int[x];
             int[] vetorContrario = new int[x];
 
+
             for (int i = 0; i < vetor.Length; i++)
             {
                 Console.WriteLine("Informe um valor para a posição " + i + ":");
