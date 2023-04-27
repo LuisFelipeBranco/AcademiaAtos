@@ -1,0 +1,14 @@
+body{
+    background-color: #50C878;
+}
+
+.container {
+    display: flex;
+    text-align: center;
+    padding: 0%;
+  }
+  
+.elemento{
+    display: inline-block;
+    margin-right: 10px;
+}

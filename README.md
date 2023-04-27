@@ -1,2 +1,2 @@
 # AcademiaAtos
-Repósitorio dedicado a armazenamento das listas e exercicios passados em aulas e/ou projetos.
+Este repositório faz parte do programa de ensino e treinamento da empresa ATOS, e foi criado com o objetivo de armazenar os exercícios/desafios do projeto.

@@ -1,0 +1,23 @@
+body {
+    background-color: #d9a8a8;
+}
+
+#container{
+    background-color: burlywood;
+}
+
+#h1principal {
+    background-color: aquamarine;
+    text-transform: uppercase;
+    font-style: italic;
+}
+
+.classe1{
+    color: blue;
+    font-size: 200%;
+    text-align: justify;
+    font-variant: small-caps;
+    margin: 200px 150px 100px 500px;
+}
+
+#divnova1{}
