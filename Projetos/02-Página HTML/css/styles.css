@@ -2,6 +2,13 @@ body{
     background-color: #50C878;
 }
 
+#imageIndex{
+    width: 800;
+    height: 900px;
+    margin: auto 0;
+    display: block;
+}
+
 .container {
     display: flex;
     text-align: center;
@@ -18,14 +25,50 @@ body{
 #textIndex{
     text-align: justify;
     font-size: 120%;
+    font-family: 'Courier New', Courier, monospace;
 }
 
 .rodape{
-   position: fixed;
    left: 0;
    bottom: 0;
    width: 98%;
-   text-align: right;
+   text-align: center;
    padding: 10px;
    font-size: 12px;
 }
+
+.gallery{
+    width: 50%;
+    height: 50%;
+    display: inline-flex;
+    margin-top: 30px;
+    margin-left: 50px;
+}
+
+#galleryTitle{
+    font-weight: 600;
+    text-align: center  ;
+}
+
+#textSobre{
+    text-align: justify;
+    font-size: medium;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.formulario{
+    text-align: justify;
+    align-items: center;
+}
+
+label {
+    display: block;
+    margin-bottom: 10px;
+  }
+  
+  input,
+  textarea {
+    display: block;
+    margin-bottom: 20px;
+  }
+  
