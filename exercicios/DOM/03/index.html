@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Exercicios DOM</title>
+    <link rel="stylesheet" href="./css/styles.css">
+</head>
+<body >
+    <h1>Color Change!!</h1>
+    <div class="cores">
+        <!--<a id="red" onmouseover="changeColor('red')">Red</a>
+        <a id="green" onmouseover="changeColor('green')">Green</a>
+        <a id="blue" onmouseover="changeColor('blue')">Blue</a>
+        <a id="yellow"onmouseover="changeColor('yellow')">Yellow</a>-->
+        <h2>Escolha uma cor: </h2>
+        <input type="radio" id="opcao1" name="opcao" value="opcao1" onclick="changeColor('red')">
+        <label for="opcao1">Red</label><br>
+        <input type="radio" id="opcao2" name="opcao" value="opcao2" onclick="changeColor('blue')">
+        <label for="opcao2">Blue</label><br>
+        <input type="radio" id="opcao2" name="opcao" value="opcao2" onclick="changeColor('yellow')">
+        <label for="opcao2">Yellow</label><br>
+        <input type="radio" id="opcao3" name="opcao" value="opcao3" onclick="changeColor('green')">
+        <label for="opcao3">Green</label><br>
+    </div>
+    <script src="./scripts/index.js" charset="UTF-8"></script>
+</body>
+</html>
