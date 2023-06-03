@@ -38,7 +38,12 @@
             label2 = new Label();
             label3 = new Label();
             button3 = new Button();
-            button4 = new Button();
+            deserializar = new Button();
+            serializarJSON = new Button();
+            deserializarJSON = new Button();
+            label4 = new Label();
+            label5 = new Label();
+            label6 = new Label();
             SuspendLayout();
             // 
             // textBox1
@@ -118,30 +123,82 @@
             // 
             // button3
             // 
-            button3.Location = new Point(184, 298);
+            button3.Location = new Point(318, 194);
             button3.Name = "button3";
-            button3.Size = new Size(100, 23);
+            button3.Size = new Size(108, 23);
             button3.TabIndex = 9;
             button3.Text = "Serializar XML";
             button3.UseVisualStyleBackColor = true;
             button3.Click += button3_Click;
             // 
-            // button4
+            // deserializar
             // 
-            button4.Location = new Point(323, 298);
-            button4.Name = "button4";
-            button4.Size = new Size(89, 23);
-            button4.TabIndex = 10;
-            button4.Text = "Deserializar";
-            button4.UseVisualStyleBackColor = true;
-            button4.Click += button4_Click;
+            deserializar.Location = new Point(318, 255);
+            deserializar.Name = "deserializar";
+            deserializar.Size = new Size(108, 23);
+            deserializar.TabIndex = 10;
+            deserializar.Text = "Deserializar XML";
+            deserializar.UseVisualStyleBackColor = true;
+            deserializar.Click += button4_Click;
+            // 
+            // serializarJSON
+            // 
+            serializarJSON.Location = new Point(475, 194);
+            serializarJSON.Name = "serializarJSON";
+            serializarJSON.Size = new Size(111, 23);
+            serializarJSON.TabIndex = 11;
+            serializarJSON.Text = "Serializar JSON";
+            serializarJSON.UseVisualStyleBackColor = true;
+            serializarJSON.Click += serializarJSON_Click;
+            // 
+            // deserializarJSON
+            // 
+            deserializarJSON.Location = new Point(475, 255);
+            deserializarJSON.Name = "deserializarJSON";
+            deserializarJSON.Size = new Size(111, 23);
+            deserializarJSON.TabIndex = 12;
+            deserializarJSON.Text = "Deserializar JSON";
+            deserializarJSON.UseVisualStyleBackColor = true;
+            deserializarJSON.Click += deserializarJSON_Click;
+            // 
+            // label4
+            // 
+            label4.AutoSize = true;
+            label4.Location = new Point(184, 305);
+            label4.Name = "label4";
+            label4.Size = new Size(38, 15);
+            label4.TabIndex = 13;
+            label4.Text = "label4";
+            // 
+            // label5
+            // 
+            label5.AutoSize = true;
+            label5.Location = new Point(184, 342);
+            label5.Name = "label5";
+            label5.Size = new Size(38, 15);
+            label5.TabIndex = 14;
+            label5.Text = "label5";
+            // 
+            // label6
+            // 
+            label6.AutoSize = true;
+            label6.Location = new Point(184, 375);
+            label6.Name = "label6";
+            label6.Size = new Size(38, 15);
+            label6.TabIndex = 15;
+            label6.Text = "label6";
             // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(800, 450);
-            Controls.Add(button4);
+            Controls.Add(label6);
+            Controls.Add(label5);
+            Controls.Add(label4);
+            Controls.Add(deserializarJSON);
+            Controls.Add(serializarJSON);
+            Controls.Add(deserializar);
             Controls.Add(button3);
             Controls.Add(label3);
             Controls.Add(label2);
@@ -170,6 +227,11 @@
         private Label label2;
         private Label label3;
         private Button button3;
-        private Button button4;
+        private Button deserializar;
+        private Button serializarJSON;
+        private Button deserializarJSON;
+        private Label label4;
+        private Label label5;
+        private Label label6;
     }
 }
